@@ -1,0 +1,42 @@
+/*
+Theme Name: 
+Theme URI:    
+Description:  
+Author:       
+Author URI:   
+Template:     
+Version:      
+License:      
+License URI:  
+Tags:         
+Text Domain:
+@link https://codex.wordpress.org/Theme_Development#Theme_Stylesheet  
+*/
+
+
+// -------------------------------------------------- //
+// @import "_bootstrap_variables.scss";
+//  
+// Local version of _varibles.scss. Override any default 
+// bootstrap values for our theme here, leaving the original copy 
+// of the file intact.
+// -------------------------------------------------- //
+
+@import "_bootstrap_variables.scss";
+
+
+// -------------------------------------------------- //
+// Import original _bootstrap.scss,
+// -------------------------------------------------- //
+
+@import "stylesheets/_bootstrap.scss";
+
+
+// -------------------------------------------------- //
+// Import basic WP Core Styles
+// -------------------------------------------------- //
+
+@import "_wpcore.scss";
+
+
+// Add your styles here
