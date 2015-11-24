@@ -23,7 +23,7 @@ Create a temporary directory to build the theme in.
 
 ` $cd mynewtheme`
 
-` $ git clone https://github.com/tedgeving/wp-bootstrap.git`
+` $ git clone https://github.com/tedgeving/wpbs-grunt.git`
 
 ` $ npm install `
 
