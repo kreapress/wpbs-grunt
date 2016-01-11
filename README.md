@@ -25,6 +25,8 @@ Create a temporary directory to build the theme in.
 
 ` $ git clone https://github.com/tedgeving/wpbs-grunt.git`
 
+` $cd wpbs-grunt`
+
 ` $ npm install `
 
 ` $ grunt `
